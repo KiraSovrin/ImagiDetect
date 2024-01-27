@@ -20,7 +20,7 @@ setup(
     
     long_description='',
     
-    url='https://github.com/yourusername/ImagiDetect',
+    url='https://github.com/KiraSovrin/ImagiDetect.git',
     classifiers=[
         'Development Status :: 1 - Planning',
         'Intended Audience :: Developers',
